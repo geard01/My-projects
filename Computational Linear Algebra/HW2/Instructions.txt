@@ -1,0 +1,5 @@
+The MATLAB code allows the user to modify the number k, which can be set to 10, 20, or 40. 
+Additionally, the tolerance and maximum iterations for the inverse power method can be adjusted to control the stopping criteria and iteration limits. These parameters should be defined before running the script. 
+Once the desired values are set, the script can be executed in MATLAB.
+Every point requested in the homework is well defined in the code, and all the necessary plots we be visualized automatically.  
+All function definitions are provided at the end of the code for better organization and modularity.
