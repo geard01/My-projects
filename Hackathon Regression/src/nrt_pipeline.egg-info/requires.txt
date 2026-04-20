@@ -1,0 +1,12 @@
+boto3
+pandas
+openpyxl
+streamlit
+python-dotenv
+pyyaml
+ipykernel
+
+[development]
+pytest
+pytest-cov
+ruff

@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: nrt-pipeline
+Version: 0.1.0
+Summary: Non-Regression Testing pipeline for LLM model migration — Hackathon team template
+Requires-Python: >=3.11
+Requires-Dist: boto3
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyyaml
+Requires-Dist: ipykernel
+Provides-Extra: development
+Requires-Dist: pytest; extra == "development"
+Requires-Dist: pytest-cov; extra == "development"
+Requires-Dist: ruff; extra == "development"
